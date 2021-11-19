@@ -2,4 +2,4 @@
 Yin Yang Animation using HTML CSS only/
 
 
-![Yin Yang Animation](https://thumbs.gfycat.com/WeirdPerfumedKillerwhale-mobile.mp4)
+![Yin Yang Animation](./ezgif.com-gif-maker.gif)
